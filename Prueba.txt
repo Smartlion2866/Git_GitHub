@@ -1,1 +1,2 @@
 Miguel Begazo desde Git.
+Haciendo nuevos cambios y aprendiendo mucho sobre Git.
